@@ -1,2 +1,0 @@
-# sampara
-bsc data science
